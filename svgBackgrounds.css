@@ -1,0 +1,6 @@
+.dead {
+    background-image: url('./images/DeadKing.jpg');
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+    background-size: cover;
+  }
